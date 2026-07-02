@@ -7,7 +7,7 @@ metrics — all through a desktop GUI, a CLI, or a Google Colab notebook.
 
 **Pipeline:** Anisotropic Diffusion → DnCNN Deep Denoiser → CLAHE → Optional Sharpening → Quality Evaluation
 
-![Before and after enhancement]("C:\Users\athiy\Downloads\real_before_after.png")
+
 
 ---
 
@@ -21,7 +21,8 @@ edge-aware PDE filter** with a **learned CNN denoiser** and **adaptive contrast
 enhancement**, in an order specifically chosen so each stage cleans up what the
 previous one left behind, without one stage undoing another's work.
 
-![Pipeline stage-by-stage output](docs/images/pipeline_stages.png)
+<img width="1490" height="240" alt="WhatsApp Image 2026-07-02 at 8 17 26 PM" src="https://github.com/user-attachments/assets/0d47bbb7-c97c-4a2c-bd70-10db9d6f13a6" />
+
 
 ---
 
