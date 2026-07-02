@@ -7,7 +7,7 @@ metrics — all through a desktop GUI, a CLI, or a Google Colab notebook.
 
 **Pipeline:** Anisotropic Diffusion → DnCNN Deep Denoiser → CLAHE → Optional Sharpening → Quality Evaluation
 
-![Before and after enhancement](docs/images/before_after.png)
+![Before and after enhancement]("C:\Users\athiy\Downloads\real_before_after.png")
 
 ---
 
